@@ -1,5 +1,5 @@
 <h2 align="center">
-    ───「 dilchor network vip boys no 1」───
+    ───「 dilchor network vip bots no 1」───
 </h2>
 
 <p align="center">
