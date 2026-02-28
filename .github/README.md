@@ -1,9 +1,9 @@
 <h2 align="center">
-    ───「 𝐆ᴏᴊᴏꭙ𝐍ᴏʙɪᴛᴀ 𝐍ᴇᴛᴡᴏʀᴋ 🜲 」───
+    ───「 dilchor network vip boys no 1」───
 </h2>
 
 <p align="center">
-  <img src="https://files.catbox.moe/v5yg3x.jpg">
+  <img src="https://files.catbox.moe/3efpki.jpg">
 </p>
 
 <p align="center">
