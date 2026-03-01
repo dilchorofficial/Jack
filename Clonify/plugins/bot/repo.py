@@ -10,9 +10,9 @@ start_txt = """
 **DRXCLONE** - Tʜᴇ Uʟᴛɪᴍᴀᴛᴇ Tᴇʟᴇɢʀᴀᴍ Mᴜsɪᴄ Sᴏʟᴜᴛɪᴏɴ ᴡɪᴛʜ ᴄʟᴏɴᴇ ғᴇᴀᴛᴜʀᴇs.
 
 ┏━━━━━━━━━━━━━━━━━⧫
-┠ ◆ **sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ:** [Click Here](https://github.com/DRxBots/CAPTAINAMERICA)  
-┠ ◆ **ᴅᴇᴠᴇʟᴏᴘᴇʀ:** [𝐃ʀꭙ 𝐍ᴇᴛᴡᴏʀᴋ](https://t.me/lll_DRX_NETWORK_lll)
-┠ ◆ **ʀᴇʟᴇᴀsᴇᴅ ʙʏ:** [𝙎𝙏𝚲𝙇𝙆𝙀𝙍 ×͜×](https://t.me/hehe_stalker)
+┠ ◆ **sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ:** [Click Here](https://)  
+┠ ◆ **ᴅᴇᴠᴇʟᴏᴘᴇʀ:** [⌯ Vɪᴘ Bᴏᴛs 👑](https://t.me/TEAM_CHOR)
+┠ ◆ **ʀᴇʟᴇᴀsᴇᴅ ʙʏ:** [⌯ Vɪᴘ_Cʜᴏʀ 🪪](https://t.me/Vip_chor)
 ┗━━━━━━━━━━━━━━━━━⧫
 
 __Fᴏʀᴋ ɪᴛ, ᴄᴜsᴛᴏᴍɪᴢᴇ ɪᴛ, ᴀɴᴅ ᴍᴀᴋᴇ ɪᴛ ʏᴏᴜʀ ᴏᴡɴ!__
@@ -26,8 +26,8 @@ __Fᴏʀᴋ ɪᴛ, ᴄᴜsᴛᴏᴍɪᴢᴇ ɪᴛ, ᴀɴᴅ ᴍᴀᴋᴇ ɪᴛ �
 async def start(_, msg):
     buttons = [
         [
-                InlineKeyboardButton("𝗦𝗨𝗣𝗣𝗢𝗥𝗧", url="https://t.me/Drx_supportchat"),
-                InlineKeyboardButton("𝗨𝗣𝗗𝗔𝗧𝗘", url="https://t.me/lll_Drx_network_lll")
+                InlineKeyboardButton("𝗦𝗨𝗣𝗣𝗢𝗥𝗧", url="https://t.me/ll_botchat_ll"),
+                InlineKeyboardButton("𝗨𝗣𝗗𝗔𝗧𝗘", url="https://t.me/TEAM_CHOR")
         ],
         [ 
           InlineKeyboardButton("𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘", url=f"https://github.com")
@@ -60,7 +60,7 @@ async def repo(_, message):
             list_of_users += f"{count}. [{user['login']}]({user['html_url']})\n"
             count += 1
 
-        text = f"""[𝖱𝖤𝖯𝖮 𝖫𝖨𝖭𝖪](https://t.me/lll_drx_network_lll) | [𝖦𝖱𝖮𝖴𝖯](https://t.me/DRX_SUPPORTCHAT)
+        text = f"""[𝖱𝖤𝖯𝖮 𝖫𝖨𝖭𝖪](https://t.me/ll_star_bots_support_ll) | [𝖦𝖱𝖮𝖴𝖯](https://t.me/ll_star_bots_ll)
 | 𝖢𝖮𝖭𝖳𝖱𝖨𝖡𝖴𝖳𝖮𝖱𝖲 |
 ----------------
 {list_of_users}"""
