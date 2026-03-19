@@ -49,8 +49,8 @@ def private_panel(_):
         ],
         [
             InlineKeyboardButton(
-                text="🎤 ᴄʜᴀᴛɪɴɢ ʜᴜʙ",
-                url="https://t.me/ALISA_OFFCIAL_MUSIC_BOT/voicehub",
+                text="𝚂𝚃𝚄𝙳𝚈 📚 𝚉𝙾𝙽𝙴",
+                url="https://t.me/+PQ9Ua7Vm_zowODY9",
             ),
         ],
         [
@@ -83,8 +83,8 @@ def private_panell(_):
         ],
         [
             InlineKeyboardButton(
-                text="🎤 ᴄʜᴀᴛɪɴɢ ʜᴜʙ",
-                url="https://t.me/ALISA_OFFCIAL_MUSIC_BOT/voicehub",
+                text="𝚂𝚃𝚄𝙳𝚈 📚 𝚉𝙾𝙽𝙴",
+                url="https://t.me/+PQ9Ua7Vm_zowODY9",
             ),
         ],
         [
@@ -95,3 +95,4 @@ def private_panell(_):
         ],
     ]
     return buttons
+#dilchor
