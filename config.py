@@ -15,13 +15,13 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_ID = getenv("BOT_ID")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","II_YOUR_GOJO_ll")
+OWNER_USERNAME = getenv("OWNER_USERNAME","OWNER_DILCHOR")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "CUTE_ARADHYA56U_BOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "@Amita_music_cloner_bot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "ARADYA MUSIC")
+BOT_NAME = getenv("BOT_NAME" , "𓆰꯭꯭꯭꯭⁭⁬⁭⁬⁭⁬⁭⁬⁭𝗗꯭ɪʟ꯭c፝֟͠ʜ꯭𝛔ʀ꯭𝄢꯭꯭|🔥꯭꯭ϻ͢μ͢ᵴ͢ɪ͢ᴄ͢»ᯤ")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "HINDU_MUSIC_ASSIST")
+ASSUSERNAME = getenv("ASSUSERNAME" , "ASSIST")
 # ---------------------------------------------------------
 
 
@@ -31,9 +31,6 @@ MONGO_DB_URI = getenv("MONGO_DB_URI")
 API_KEY = getenv("API_KEY")
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-API_URL = getenv("API_URL", 'https://api.thequickearn.xyz') #youtube song url
-VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.thequickearn.xyz')
-API_KEY = getenv("API_KEY", None)
 
 
 # ----------------------------------------------------------------
@@ -58,10 +55,10 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-SOURCE = getenv("SOURCE", "https://github.com/HKMUSIC/GOJO-MUSIC-CLONE-BOT")
+SOURCE = getenv("SOURCE", "")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/HKMUSIC/GOJO-MUSIC-CLONE-BOT",
+    "https://github.com/dilchorofficial/Jack",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -76,7 +73,7 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+1nNvm13UYW00NDM1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/TEAM_CHOR")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+l_8aV01Z4oE3ZGFl")
 CHAT = getenv("CHAT", "https://t.me/+pQxq8M-1_GRlZjI9")
 # ------------------------------------------------------------------------------
