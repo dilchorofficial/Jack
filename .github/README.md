@@ -6,13 +6,6 @@
   <img src="https://files.catbox.moe/3efpki.jpg">
 </p>
 
-<p align="center">
-<a href="https://github.com/TeamProBots/Clonify"><img src="https://img.shields.io/github/stars/TeamProBots/Clonify?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/TeamProBots/Clonify/network/members"> <img src="https://img.shields.io/github/forks/TeamProBots/Clonify?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/TeamProBots/Clonify/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
-<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/TeamProBots/Clonify/commits?author=yasirakhtar"> <img src="https://img.shields.io/github/last-commit/TeamProBots/Clonify?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
-</p>
 
 <p align="center"><img src="https://camo.githubusercontent.com/0b26c9160fb9f58f42db5d7185898a24d69f583444fe512d799a20db91face2c/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f5961736972416b687461722f636f756e742e737667"></p>
 
