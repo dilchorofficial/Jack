@@ -24,5 +24,5 @@
 </p>
 
 <p align="center">
-<a href="https://t.me/drxgiveway"><img src="https://img.shields.io/badge/-Update%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/TEAM_CHOR"><img src="https://img.shields.io/badge/-Update%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
