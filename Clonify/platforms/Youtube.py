@@ -16,6 +16,7 @@ import random
 import logging
 import aiohttp
 import config
+from config import
      YOUR_API_URL = None
 FALLBACK_API_URL = "https://shrutibots.site"
 
