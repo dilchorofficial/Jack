@@ -62,3 +62,4 @@ youtube-search
 youtube-search-python
 youtube_dl==2021.12.17
 yt-dlp
+py-yt
