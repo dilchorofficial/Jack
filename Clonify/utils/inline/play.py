@@ -75,7 +75,7 @@ def stream_markup_timer(_, chat_id, played, dur, download_url=None):
             ),
             InlineKeyboardButton(
                 text="ᴅᴏᴡɴʟᴏᴀᴅ",
-                url=download_url if download_url else "https://t.me/ALISA_OFFCIAL_MUSIC_BOT?start=download",
+                url=download_url if download_url else "https://t.me/Amita_music_cloner_bot?start=download",
             ),
         ],
         [
@@ -100,7 +100,7 @@ def stream_markup(_, chat_id, download_url=None):
             ),
             InlineKeyboardButton(
                 text="ᴅᴏᴡɴʟᴏᴀᴅ",
-                url=download_url if download_url else "https://t.me/ALISA_OFFCIAL_MUSIC_BOT?start=download",
+                url=download_url if download_url else "https://t.me/Amita_music_cloner_bot?start=download",
             ),
         ],
         [
