@@ -70,8 +70,8 @@ def stream_markup_timer(_, chat_id, played, dur, download_url=None):
         ],
         [
             InlineKeyboardButton(
-                text="🎤 ᴄʜᴀᴛɪɴɢ ʜᴜʙ",
-                url="https://t.me/ALISA_OFFCIAL_MUSIC_BOT/voicehub",
+                text="🌿 STUDY ZONE",
+                url="https://t.me/+PQ9Ua7Vm_zowODY9",
             ),
             InlineKeyboardButton(
                 text="ᴅᴏᴡɴʟᴏᴀᴅ",
@@ -95,8 +95,8 @@ def stream_markup(_, chat_id, download_url=None):
         ],
         [
             InlineKeyboardButton(
-                text="🎤 ᴄʜᴀᴛɪɴɢ ʜᴜʙ",
-                url="https://t.me/ALISA_OFFCIAL_MUSIC_BOT/voicehub",
+                text="🌿 STUDY zone",
+                url="https://t.me/+PQ9Ua7Vm_zowODY9",
             ),
             InlineKeyboardButton(
                 text="ᴅᴏᴡɴʟᴏᴀᴅ",
@@ -252,10 +252,10 @@ def stream_markup2(_, chat_id):
         ],
 [
             InlineKeyboardButton(
-                text="ᴏᴡɴᴇʀ", url=f"https://t.me/GOJO_SUPPORT_GROUP_II"
+                text="ᴏᴡɴᴇʀ", url=f"https://t.me/OWNER_DILCHOR"
             ),
             InlineKeyboardButton(
-                text="ᴄʜᴀᴛ", url=f"https://t.me/GOJO_NOBITA_II"
+                text="ᴄʜᴀᴛ", url=f"https://t.me/TEAM_CHOR"
             ),
         ],
 
